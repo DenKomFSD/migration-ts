@@ -1,0 +1,8 @@
+.styles {
+  display: flex;
+  padding: 10px;
+  flex-direction: row;
+  gap: 16px;
+  align-items: center;
+  color: aliceblue;
+}

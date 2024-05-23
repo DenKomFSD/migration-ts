@@ -1,0 +1,11 @@
+.link {
+  color: whitesmoke;
+  font-size: 18px;
+}
+
+.active {
+  background: #003465;
+  color: whitesmoke;
+  padding: 8px 16px;
+  border-radius: 8px;
+}
